@@ -6,5 +6,5 @@
 <h2> 🤙🏻 &nbsp;Get in touch </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dells26/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alevan Kim-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alevan Kim-blue?style=flat-square&logo=linkedin"></a>
 </p>
